@@ -6,7 +6,7 @@ Computer Science graduate from the University of Zaragoza (UNIZAR)
 
 ### Music Streaming Platform
 
-Full-stack web application inspired by modern music streaming platforms, developed as part of my university studies.
+Full-stack web application inspired by modern music streaming platforms, developed as part of my university studies. I worked on the Angular web client.
 
 The application supports different types of users, including listeners and artists, and provides functionality for managing music, albums and playlists.
 
@@ -32,15 +32,7 @@ The project implements a multi-server architecture for an anime platform, combin
 
 🔗 [View repository](https://github.com/martaibnzz/TWEB2025-g1)
 
-### Brain2Brain
 
-Web application developed as part of the Electronic Commerce course at the University of Zaragoza.
-
-The platform allows university students to exchange classes through a credit-based system, including user registration, course management, session booking and ratings.
-
-**Technologies:**  PHP · JavaScript · HTML · CSS
-
-🔗 [View project](https://comelec.unizar.es/brain2brain.com/landing.php)
 
 
 
