@@ -40,7 +40,7 @@ The platform allows university students to exchange classes through a credit-bas
 
 **Technologies:**  PHP · JavaScript · HTML · CSS
 
-🔗 [](https://comelec.unizar.es/brain2brain.com/landing.php)
+🔗 [View project](https://comelec.unizar.es/brain2brain.com/landing.php)
 
 
 
