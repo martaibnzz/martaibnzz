@@ -31,3 +31,16 @@ The project implements a multi-server architecture for an anime platform, combin
 **Technologies:** JavaScript · Java · Node.js · Express · Spring Boot · MongoDB · PostgreSQL · REST APIs · Swagger
 
 🔗 [View repository](https://github.com/martaibnzz/TWEB2025-g1)
+
+### Brain2Brain
+
+Web application developed as part of the Electronic Commerce course at the University of Zaragoza.
+
+The platform allows university students to exchange classes through a credit-based system, including user registration, course management, session booking and ratings.
+
+**Technologies:**  PHP · JavaScript · HTML · CSS
+
+🔗 [](https://comelec.unizar.es/brain2brain.com/landing.php)
+
+
+
