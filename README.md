@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Marta Ibáñez
 
-<!--
-**martaibnzz/martaibnzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from the University of Zaragoza (UNIZAR)
 
-Here are some ideas to get you started:
+Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Music Streaming Platform
+
+Full-stack web application inspired by modern music streaming platforms, developed as part of my university studies.
+
+The application supports different types of users, including listeners and artists, and provides functionality for managing music, albums and playlists.
+**Technologies:** TypeScript · Angular · Web Development
+
+🔗 [View repository]()
+
+### Anime Platform 
+
+Full-stack web application developed as part of my Web Technologies coursework at the University of Turin.
+
+The project implements a multi-server architecture for an anime platform, combining different backend services and databases to manage and retrieve anime, character and person information.
+
+Architecture
+Main Server — Node.js + Express
+Mongo Server — Node.js + Express + MongoDB
+Spring Boot Server — Java + Spring Boot + PostgreSQL
+API Documentation — Swagger 
+
+**Technologies:** JavaScript · Java · Node.js · Express · Spring Boot · MongoDB · PostgreSQL · REST APIs · Swagger
+
+🔗 [View repository]()
