@@ -9,6 +9,7 @@ Computer Science graduate from the University of Zaragoza (UNIZAR)
 Full-stack web application inspired by modern music streaming platforms, developed as part of my university studies.
 
 The application supports different types of users, including listeners and artists, and provides functionality for managing music, albums and playlists.
+
 **Technologies:** TypeScript · Angular · Web Development
 
 🔗 [View repository](https://github.com/UNIZAR-30226-2025-10/frontend-web)
@@ -19,11 +20,13 @@ Full-stack web application developed as part of my Web Technologies coursework a
 
 The project implements a multi-server architecture for an anime platform, combining different backend services and databases to manage and retrieve anime, character and person information.
 
-Architecture
-Main Server — Node.js + Express
-Mongo Server — Node.js + Express + MongoDB
-Spring Boot Server — Java + Spring Boot + PostgreSQL
-API Documentation — Swagger 
+**Architecture:**
+
+- **Main Server:** Node.js + Express
+- **Mongo Server:** Node.js + Express + MongoDB
+- **Spring Boot Server:** Java + Spring Boot + PostgreSQL
+- **API Documentation:** Swagger / OpenAPI
+
 
 **Technologies:** JavaScript · Java · Node.js · Express · Spring Boot · MongoDB · PostgreSQL · REST APIs · Swagger
 
