@@ -11,7 +11,7 @@ Full-stack web application inspired by modern music streaming platforms, develop
 The application supports different types of users, including listeners and artists, and provides functionality for managing music, albums and playlists.
 **Technologies:** TypeScript · Angular · Web Development
 
-🔗 [View repository]()
+🔗 [View repository](https://github.com/UNIZAR-30226-2025-10/frontend-web)
 
 ### Anime Platform 
 
