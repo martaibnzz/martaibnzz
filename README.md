@@ -1,8 +1,8 @@
-Hi, I'm Marta Ibáñez
+# Hi, I'm Marta Ibáñez
 
 Computer Science graduate from the University of Zaragoza (UNIZAR)
 
-Featured Projects
+##  Projects
 
 ### Music Streaming Platform
 
